@@ -6,6 +6,8 @@ This is just a list of repositories I tend to find useful or intersting.. Not su
 
 ## Windows
 
-### Kerberos
+### Mimikatz
+- https://github.com/gentilkiwi/mimikatz
 
+### Kerberos
 - https://github.com/ropnop/kerbrute
