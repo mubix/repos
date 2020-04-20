@@ -18,3 +18,7 @@ This is just a list of repositories I tend to find useful or intersting.. Not su
 
 ### Sharp / CSharp Tools
 - https://github.com/GhostPack/SharpDump
+
+## C2 Frameworks
+
+- https://github.com/nettitude/PoshC2
