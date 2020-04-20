@@ -15,6 +15,7 @@ This is just a list of repositories I tend to find useful or intersting.. Not su
 
 ### MSSQL
 - https://github.com/NetSPI/PowerUpSQL
+- https://github.com/Keramas/mssqli-duet/
 
 ### Sharp / CSharp Tools
 - https://github.com/GhostPack/SharpDump
