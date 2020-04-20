@@ -8,6 +8,7 @@ This is just a list of repositories I tend to find useful or intersting.. Not su
 
 ### Mimikatz
 - https://github.com/gentilkiwi/mimikatz
+- https://github.com/gentilkiwi/kekeo
 
 ### Kerberos
 - https://github.com/ropnop/kerbrute
