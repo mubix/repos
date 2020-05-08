@@ -19,6 +19,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 
 ### Sharp / CSharp Tools
 - https://github.com/GhostPack/SharpDump
+- https://github.com/rasta-mouse/MiscTools
 
 ## OSX
 
