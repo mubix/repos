@@ -45,4 +45,6 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ## Wireless
 - Wifi Phisher - https://github.com/wifiphisher/wifiphisher
 - EAP Hammer - https://github.com/s0lst1c3/eaphammer
- 
+
+## Secrets Extraction
+- Gralwer (git) - https://github.com/jregele/grawler (ShmooCon 2018)
