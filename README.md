@@ -41,6 +41,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Merlin - https://github.com/Ne0nd0g/merlin
 - Koadic C3 - https://github.com/zerosum0x0/koadic
 
+## WWW
+
+- API key usage / hacks - https://github.com/streaak/keyhacks 
 
 ## Wireless
 - Wifi Phisher - https://github.com/wifiphisher/wifiphisher
