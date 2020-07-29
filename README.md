@@ -95,7 +95,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - LethalHTA (DCOM to load HTA remotely) - https://github.com/codewhitesec/LethalHTA
 - Excel4DCOM (DCOM to load Excel 4 macro) - https://github.com/outflanknl/Excel4-DCOM
 - LSASSY (Remotely dump LSASS memory) - https://github.com/Hackndo/lsassy
-
+- IOXIDResolver (identifies host with multiple interfaces w/o auth) - https://github.com/mubix/IOXIDResolver
 
 ### Privilege Escalation
 - Change-LockScreen - https://github.com/nccgroup/Change-Lockscreen
