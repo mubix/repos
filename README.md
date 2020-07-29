@@ -216,6 +216,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ## ThreatHunting
 - ThreatHunter's playbooks - https://github.com/hunters-forge/ThreatHunter-Playbook/
 - BlueSPAWN - https://github.com/ION28/BLUESPAWN
+- OSCtrl (OSQuery open source management tool) - https://github.com/jmpsec/osctrl
 
 ## LAB Creation
 
