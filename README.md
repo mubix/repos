@@ -57,6 +57,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 
 ### Windows Shares
 - SMBMap - https://github.com/ShawnDEvans/smbmap
+- Snaffler - https://github.com/SnaffCon/Snaffler
 
 ### Kerberos
 - https://github.com/ropnop/kerbrute
