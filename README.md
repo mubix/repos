@@ -155,6 +155,13 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Hashcat - https://github.com/hashcat
 - John the Ripper - https://github.com/magnumripper/JohnTheRipper
 
+### Cracking Rules
+- OneRuleToRuleThemAll - https://github.com/NotSoSecure/password_cracking_rules
+
+### Word Lists
+- WordSmith - https://github.com/skahwah/wordsmith
+- PwDB-Public - https://github.com/FlameOfIgnis/Pwdb-Public
+
 ### Password Spraying
 - PurpleSpray - https://github.com/mvelazc0/PurpleSpray
 - KerBrute - https://github.com/TarlogicSecurity/kerbrute
@@ -162,9 +169,6 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Password Brute Forcing
 - Patator - https://github.com/lanjelot/patator
 
-### Word Lists
-- WordSmith - https://github.com/skahwah/wordsmith
-- PwDB-Public - https://github.com/FlameOfIgnis/Pwdb-Public
 
 ## Go Projects (Generic)
 - Run shellcode (Windows or Unix via hex command line arg) - https://github.com/brimstone/go-shellcode
