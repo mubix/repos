@@ -26,6 +26,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - https://github.com/mzfr/gtfo (Located GTFO/LOLBAS binaries on disk)
 - PXE CLient - https://github.com/Meatballs1/PXEClient
 
+### Port Scanning
+- RustScan - https://github.com/RustScan/RustScan
+
 ## Windows
 
 ### BloodHound / SharpHound
