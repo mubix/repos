@@ -1,6 +1,6 @@
 # List of Repositories
 
-This is just a list of repositories I tend to find useful or interesting... Not sure how well sorting will work out...
+This is shamelessly taken from mubix and I'm just adding my 2 cents for my own records
 
 ## Comprehensive Resources
 - https://github.com/swisskyrepo/PayloadsAllTheThings
