@@ -1,6 +1,112 @@
-# List of Repositories
+# This is shamelessly taken from @mubix (https://github.com/mubix/repos) and I'm just adding my 2 cents for my own records
 
-This is shamelessly taken from mubix and I'm just adding my 2 cents for my own records
+<details>
+  <summary>Sites</summary>
+  
+  - [Helpful Sites](#helpful-sites)
+    - [Training](#training)
+  - [Misc. Git Repos]('misc.-git-repos')
+</details>
+
+<details>
+  <summary>Recon</summary>
+
+  - [External](#external)
+  - [Internal](#internal)
+  - [OSINT](#osint)
+  - [Port Scanning](#port-scanning)
+</details>
+
+<details>
+  <summary>Windows</summary>
+  
+  - [BloodHound / SharpHound]('#bloodhound-/-sharphound')
+  - [ActiveDirectory](#activedirectory)
+  - [GPO](#gpo)
+  - [ACLs](#acls)
+  - [Mimikatz](#mimikatz)
+  - [Windows Shares](#windows-shares)
+  - [Kerberos](#kerberos)
+  - [MSSQL](#mssql)
+  - [Sharp / CSharp Tools]('#sharp-/-csharp-tools')
+  - [DotNet Obfuscation](#dotnet-obfuscation)
+  - [DotNet Deserialization](#dotnet-deserialization)
+  - [PowerShell](#powershell)
+  - [Lateral Movement](#lateral-movement)
+  - [Privilege Escalation](#privilege-escalation)
+  - [WSUS Exploitation](#wsus-exploitation)
+  - [Process Injection](#process-injection)
+</details>
+
+<details>
+  <summary>OSX</summary>
+  
+   - [Jamf](#jamf)
+</details>
+  
+<details>
+  <summary>Linux</summary>
+  
+   - [Kernel Exploits](#kernel-exploits)
+</details>
+
+<details>
+  <summary>C2 Frameworks</summary>
+  
+  - [CobaltStrike Resources](#cobaltstrike-resources)
+</details>
+
+<details>
+  <summary>WWW</summary>
+  
+  - [Web Shells](#web-shells)
+</details>
+
+<details>
+  <summary>Passwords</summary>
+  
+  - [Hash Cracking](#hash-cracking)
+  - [Cracking Rules](#cracking-rules)
+  - [Word Lists](#word-lists)
+  - [Password Spraying](#password-spraying)
+  - [Password Brute Forcing](#password-brute-forcing)
+</details>
+
+<details>
+  <summary>Programming</summary>
+  
+  - [C](#c)
+  - [GoLang](#golang)
+</details>
+
+<details>
+  <summary>VMWare / vSphere</summary>
+  
+  - [AWS](#aws)
+  - [Office365 / Azure]('#office365-/-azure')
+  - [DevOps Tools](#devops-tools)
+  - [Browser](#browser)
+</details>
+
+<details>
+  <summary>Other Resources</summary>
+
+- [DNS](#dns)
+- [Phishing](#phishing)
+- [Wireless](#wireless)
+- [Secrets Extraction](#secrets-extraction)
+- [Kubernetes](#kubernetes)
+- [Hardware](#hardware)
+- [ThreatHunting](#threathunting)
+- [LAB Creation](#lab-creation)
+- [Live Memory Editing / Game Cheats]('#live-memory-editing-/-game-cheats')
+- [Pentesting Documents](#pentesting-documents)
+- [Honey Pots](#honey-pots)
+</details>
+
+# Reversing
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/TheCodeArtist/elf-parser
 
 ## Comprehensive Resources
 - https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -11,6 +117,36 @@ This is shamelessly taken from mubix and I'm just adding my 2 cents for my own r
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/xapax/security
 - https://github.com/xrkk/awesome-cyber-security
+### Misc. Git Repos
+- https://github.com/Binject/backdoorfactory
+- https://github.com/carpedm20/awesome-hacking
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/D35m0nd142/LFISuite
+- https://github.com/leostat/rtfm - I LOVE THIS ONE!
+- https://github.com/lanmaster53/recon-ng
+- https://github.com/carnal0wnage
+- 
+### Helpful Sites
+- https://ippsec.rocks/ - Content creator @ippsec searchable video archive
+- http://pentestmonkey.net/ - List of helpful reverse shell cheat sheets and others
+- https://blog.g0tmi1k.com/ - More Helpful tips
+- https://redteamtutorials.com/2018/10/24/msfvenom-cheatsheet/
+- https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/
+- https://www.bleepingcomputer.com/news/security/resurrected-powershell-empire-framework-converted-to-python-3/
+- https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
+- https://web.stanford.edu/class/cs107/resources/gdb
+- https://www.hackingarticles.in/comprehensive-guide-to-local-file-inclusion/
+- https://geekflare.com/open-source-web-security-scanner/
+- https://medium.com/@l4mp1/difference-between-xss-and-csrf-attacks-ff29e5abcd33
+- https://pentest-tools.com/home
+- https://www.pentestgeek.com/
+- https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+- https://github.com/mishmashclone/OlivierLaflamme-Cheatsheet-God - Another site like this one
+#### Training
+  - https://www.hackthebox.eu/login
+  - https://portswigger.net/web-security/
+  - https://tryhackme.com/
+  - https://www.hackthissite.org/
 
 ## Recon
 
@@ -111,6 +247,8 @@ This is shamelessly taken from mubix and I'm just adding my 2 cents for my own r
 ### Process Injection
 - Pinjectra - https://github.com/SafeBreach-Labs/pinjectra
 
+### Microsoft Exchange
+- Ruler - https://github.com/sensepost/ruler
 
 ## OSX
 
@@ -121,9 +259,9 @@ This is shamelessly taken from mubix and I'm just adding my 2 cents for my own r
 
 
 ## Linux
-
-- Kernel Exploits (3+ year old repo) https://github.com/lucyoa/kernel-exploits
 - NFSpy (exploiting/mounting NFS) - https://github.com/bonsaiviking/NfSpy
+### Kernel Exploits
+  - https://github.com/lucyoa/kernel-exploits (3+ year old repo)
 
 ## C2 Frameworks
 
@@ -171,10 +309,13 @@ This is shamelessly taken from mubix and I'm just adding my 2 cents for my own r
 ### Password Brute Forcing
 - Patator - https://github.com/lanjelot/patator
 
-
-## Go Projects (Generic)
-- Run shellcode (Windows or Unix via hex command line arg) - https://github.com/brimstone/go-shellcode
-- Hershell - https://github.com/lesnuages/hershell
+# Programming
+### C
+    - https://www.programiz.com/c-programming/examples/print-sentence
+### Golang
+    - https://www.freecodecamp.org/news/how-to-make-your-own-web-server-with-go/
+    - Run shellcode (Windows or Unix via hex command line arg) - https://github.com/brimstone/go-shellcode
+    - Hershell - https://github.com/lesnuages/hershell
 
 ## VMWare / vSphere
 - GoVC - https://github.com/vmware/govmomi/tree/master/govc
@@ -182,6 +323,8 @@ This is shamelessly taken from mubix and I'm just adding my 2 cents for my own r
 ### AWS
 
 - DuffleBag (Search public EBS for secrets) - https://github.com/BishopFox/dufflebag
+- Pacu (search all AWS for everything) - https://github.com/RhinoSecurityLabs/pacu
+- Trailblazer - https://github.com/willbengtson/trailblazer-aws
 
 ### Office365 / Azure
 - UhOh356 - https://github.com/Raikia/UhOh365
