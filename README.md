@@ -1,5 +1,7 @@
 # This is shamelessly taken from @mubix (https://github.com/mubix/repos) and I'm just adding my 2 cents for my own records
 
+# Quick Jump List:
+
 <details>
   <summary>Sites</summary>
   
@@ -102,11 +104,10 @@
 - [Live Memory Editing / Game Cheats]('#live-memory-editing-/-game-cheats')
 - [Pentesting Documents](#pentesting-documents)
 - [Honey Pots](#honey-pots)
+- [Reversing](#reversing)
 </details>
 
-# Reversing
-- https://github.com/wtsxDev/reverse-engineering
-- https://github.com/TheCodeArtist/elf-parser
+##
 
 ## Comprehensive Resources
 - https://github.com/swisskyrepo/PayloadsAllTheThings
@@ -124,8 +125,8 @@
 - https://github.com/D35m0nd142/LFISuite
 - https://github.com/leostat/rtfm - I LOVE THIS ONE!
 - https://github.com/lanmaster53/recon-ng
-- https://github.com/carnal0wnage
-- 
+- https://github.com/carnal0wnage 
+
 ### Helpful Sites
 - https://ippsec.rocks/ - Content creator @ippsec searchable video archive
 - http://pentestmonkey.net/ - List of helpful reverse shell cheat sheets and others
@@ -142,11 +143,11 @@
 - https://www.pentestgeek.com/
 - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
 - https://github.com/mishmashclone/OlivierLaflamme-Cheatsheet-God - Another site like this one
-#### Training
-  - https://www.hackthebox.eu/login
-  - https://portswigger.net/web-security/
-  - https://tryhackme.com/
-  - https://www.hackthissite.org/
+  #### Training
+    - https://www.hackthebox.eu/login
+    - https://portswigger.net/web-security/
+    - https://tryhackme.com/
+    - https://www.hackthissite.org/
 
 ## Recon
 
@@ -374,3 +375,7 @@
 
 ## Honey Pots
 - https://github.com/s0md3v/Predator
+
+# Reversing
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/TheCodeArtist/elf-parser
