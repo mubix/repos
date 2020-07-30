@@ -7,7 +7,7 @@
   
   - [Helpful Sites](#helpful-sites)
     - [Training](#training)
-  - [Misc. Git Repos]('misc.-git-repos')
+  - [Misc. Git Repos](#misc-git-repos)
 </details>
 
 <details>
@@ -22,7 +22,7 @@
 <details>
   <summary>Windows</summary>
   
-  - [BloodHound / SharpHound]('#bloodhound-/-sharphound')
+  - [BloodHound / SharpHound](#bloodhound--sharphound)
   - [ActiveDirectory](#activedirectory)
   - [GPO](#gpo)
   - [ACLs](#acls)
@@ -30,7 +30,7 @@
   - [Windows Shares](#windows-shares)
   - [Kerberos](#kerberos)
   - [MSSQL](#mssql)
-  - [Sharp / CSharp Tools]('#sharp-/-csharp-tools')
+  - [Sharp / CSharp Tools](#sharp--csharp-tools)
   - [DotNet Obfuscation](#dotnet-obfuscation)
   - [DotNet Deserialization](#dotnet-deserialization)
   - [PowerShell](#powershell)
@@ -85,7 +85,7 @@
   <summary>VMWare / vSphere</summary>
   
   - [AWS](#aws)
-  - [Office365 / Azure]('#office365-/-azure')
+  - [Office365 / Azure](#office365--azure)
   - [DevOps Tools](#devops-tools)
   - [Browser](#browser)
 </details>
@@ -101,7 +101,7 @@
 - [Hardware](#hardware)
 - [ThreatHunting](#threathunting)
 - [LAB Creation](#lab-creation)
-- [Live Memory Editing / Game Cheats]('#live-memory-editing-/-game-cheats')
+- [Live Memory Editing / Game Cheats](#live-memory-editing--game-cheats)
 - [Pentesting Documents](#pentesting-documents)
 - [Honey Pots](#honey-pots)
 - [Reversing](#reversing)
