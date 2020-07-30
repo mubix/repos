@@ -109,23 +109,20 @@
 
 ##
 
-## Comprehensive Resources
-- https://github.com/swisskyrepo/PayloadsAllTheThings
-- https://www.ired.team/
-- https://github.com/danielmiessler/SecLists
-- https://gtfobins.github.io/
-- https://lolbas-project.github.io/
-- https://github.com/trimstray/the-book-of-secret-knowledge
-- https://github.com/xapax/security
-- https://github.com/xrkk/awesome-cyber-security
 ### Misc. Git Repos
+- https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/Binject/backdoorfactory
 - https://github.com/carpedm20/awesome-hacking
 - https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/D35m0nd142/LFISuite
 - https://github.com/leostat/rtfm - I LOVE THIS ONE!
 - https://github.com/lanmaster53/recon-ng
-- https://github.com/carnal0wnage 
+- https://github.com/carnal0wnage
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/xapax/security
+- https://github.com/xrkk/awesome-cyber-security
+- https://github.com/danielmiessler/SecLists
+
 
 ### Helpful Sites
 - https://ippsec.rocks/ - Content creator @ippsec searchable video archive
@@ -143,11 +140,15 @@
 - https://www.pentestgeek.com/
 - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
 - https://github.com/mishmashclone/OlivierLaflamme-Cheatsheet-God - Another site like this one
+- https://www.ired.team/
+- https://gtfobins.github.io/
+- https://lolbas-project.github.io/
+
   #### Training
-    - https://www.hackthebox.eu/login
-    - https://portswigger.net/web-security/
-    - https://tryhackme.com/
-    - https://www.hackthissite.org/
+  - https://www.hackthebox.eu/login
+  - https://portswigger.net/web-security/
+  - https://tryhackme.com/
+  - https://www.hackthissite.org/
 
 ## Recon
 
