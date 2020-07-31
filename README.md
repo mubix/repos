@@ -105,6 +105,7 @@
 - [Pentesting Documents](#pentesting-documents)
 - [Honey Pots](#honey-pots)
 - [Reversing](#reversing)
+- [Articles](#articles--papers)
 </details>
 
 ##
@@ -143,8 +144,11 @@
 - https://www.ired.team/
 - https://gtfobins.github.io/
 - https://lolbas-project.github.io/
+- https://hackerassociation.com/home
+- https://cti-league.com/
+- https://www.chapo.chat/
 
-  #### Training
+#### Training
   - https://www.hackthebox.eu/login
   - https://portswigger.net/web-security/
   - https://tryhackme.com/
@@ -380,3 +384,8 @@
 # Reversing
 - https://github.com/wtsxDev/reverse-engineering
 - https://github.com/TheCodeArtist/elf-parser
+
+# Articles / Papers
+- https://eclypsium.com/2020/07/29/theres-a-hole-in-the-boot/
+- https://www.rapid7.com/research/report/nicer-2020/
+- https://www.fsl.cs.sunysb.edu/docs/nfscrack-tr/
