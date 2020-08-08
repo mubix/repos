@@ -123,6 +123,7 @@
 - https://github.com/xapax/security
 - https://github.com/xrkk/awesome-cyber-security
 - https://github.com/danielmiessler/SecLists
+- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 
 
 ### Helpful Sites
