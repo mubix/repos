@@ -221,6 +221,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ## LAB Creation
 
 - DetectionLab - https://github.com/clong/DetectionLab
+- DynamicLabs - https://github.com/ctxis/DynamicLabs
 - Mini-Internet using LXC - https://github.com/flesueur/mi-lxc
 
 ### Atomic Red Teaming
