@@ -223,6 +223,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - DetectionLab - https://github.com/clong/DetectionLab
 - DynamicLabs - https://github.com/ctxis/DynamicLabs
 - Mini-Internet using LXC - https://github.com/flesueur/mi-lxc
+- Microsoft's Defend the Flag - https://github.com/microsoft/DefendTheFlag/
 
 ### Atomic Red Teaming
 - Leonidas by @fsecurelabs https://github.com/fsecurelabs/leonidas
