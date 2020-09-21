@@ -11,6 +11,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/xapax/security
 - https://github.com/xrkk/awesome-cyber-security
+- https://github.com/Spacial/csirt
 
 ## Recon
 
