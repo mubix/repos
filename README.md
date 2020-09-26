@@ -81,6 +81,10 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 #### DotNet Obfuscation
 - ConfuserEx - https://github.com/mkaring/ConfuserEx
 
+#### DotNet DeObfuscation
+- De4dot - https://github.com/0xd4d/de4dot
+- De4dot with ConfuserEx deobfuscation - https://github.com/ViRb3/de4dot-cex
+
 #### DotNet Deserialization
 - https://github.com/Illuminopi/RCEvil.NET
 - YSoSerial.net - https://github.com/pwntester/ysoserial.net
