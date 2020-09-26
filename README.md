@@ -219,6 +219,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ## Hardware
 - Defeating BIOS passwords - https://github.com/skysafe/reblog/tree/master/0000-defeating-a-laptops-bios-password
 
+## Routers and Switches
+- Routopsy (attack dynamic routing protocols) - https://github.com/sensepost/routopsy
+
 ## ThreatHunting
 - ThreatHunter's playbooks - https://github.com/hunters-forge/ThreatHunter-Playbook/
 - BlueSPAWN - https://github.com/ION28/BLUESPAWN
