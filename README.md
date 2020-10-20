@@ -138,6 +138,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Covenant - https://github.com/cobbr/Covenant
 - PoshC2 - https://github.com/nettitude/PoshC2
 - Sliver - https://github.com/BishopFox/sliver
+  - Sliver Scripting - https://github.com/moloch--/sliver-script
 - Merlin - https://github.com/Ne0nd0g/merlin
 - Koadic C3 - https://github.com/zerosum0x0/koadic
 - SilentTrinity - https://github.com/byt3bl33d3r/SILENTTRINITY
