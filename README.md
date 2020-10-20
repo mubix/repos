@@ -31,6 +31,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Port Scanning
 - RustScan - https://github.com/RustScan/RustScan
 
+### Egress Busting
+- Go-Out - https://github.com/sensepost/go-out
+
 ## Windows
 
 ### BloodHound / SharpHound
