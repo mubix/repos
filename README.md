@@ -197,6 +197,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Office365 / Azure
 - UhOh356 - https://github.com/Raikia/UhOh365
 - MSOLSpray - https://github.com/dafthack/MSOLSpray
+- ROADtools - https://github.com/dirkjanm/ROADtools
 
 ### DevOps Tools
 - Master of Servers (Puppet, Cheff, Ansible exploitation) - https://github.com/master-of-servers/mose
