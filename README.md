@@ -159,6 +159,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Jenkins PWN - https://github.com/gquere/pwn_jenkins
 - CORStest (CORS scanner) - https://github.com/RUB-NDS/CORStest
 
+### Web Screenshots
+- GoWitness - https://github.com/sensepost/gowitness
+
 ### Web Shells
 - ABPTTS - https://github.com/nccgroup/ABPTTS
 
