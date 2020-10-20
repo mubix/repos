@@ -45,6 +45,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Cheat Sheet - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 - PywerView (Python version of PowerView) - https://github.com/the-useless-one/pywerview
 - ADModule (Import ActiveDirectory module without installing RSAT) - https://github.com/samratashok/ADModule
+- MSLDAP - https://github.com/skelsec/msldap
 
 ### GPO
 - Grouper2 - https://github.com/l0ss/Grouper2
