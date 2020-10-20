@@ -22,7 +22,6 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - LinkedIn Intel - https://github.com/vysecurity/LinkedInt
 - WeakestLink (LinkedIn) - https://github.com/shellfarmer/WeakestLink
 - Gather Contacts (Google) - https://github.com/clr2of8/GatherContacts
-- GAU (Gather All Links) - https://github.com/lc/gau
 
 ### Internal
 - https://github.com/rvrsh3ll/eavesarp (Watches ARP for inter-IP communication)
@@ -159,6 +158,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - API key usage / hacks - https://github.com/streaak/keyhacks 
 - Jenkins PWN - https://github.com/gquere/pwn_jenkins
 - CORStest (CORS scanner) - https://github.com/RUB-NDS/CORStest
+
+### Web Enumeration
+- GAU (Gather All Links) - https://github.com/lc/gau
 
 ### Web Screenshots
 - GoWitness - https://github.com/sensepost/gowitness
