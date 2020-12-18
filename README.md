@@ -259,3 +259,6 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 
 ## Honey Pots
 - https://github.com/s0md3v/Predator
+
+## Classes
+- Modern Binary Exploiration - https://github.com/RPISEC/MBE
