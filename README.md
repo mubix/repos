@@ -212,6 +212,8 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Browser
 - Chrome Password Dumper - https://github.com/roflsandwich/Chrome-Password-Dumper
 - Browser Exploitation list - https://github.com/Escapingbug/awesome-browser-exploit
+- Chrome Cookie stealer via Remote Debugging port - https://github.com/slyd0g/WhiteChocolateMacademiaNut
+- BrowserPass (Steals Firefox and IE creds, but needs a lot of DLLs) - https://github.com/jabiel/BrowserPass
 
 ## Phishing
 - https://github.com/UndeadSec/SocialFish
