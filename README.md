@@ -44,6 +44,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - Bloodhound Import (direct import into Neo4j) - https://github.com/fox-it/bloodhound-import
 - Cypheroth (Awesome bloodhound query repo) - https://github.com/seajaysec/cypheroth
 - "Custom Queries" (another bloodhound query repo) - https://github.com/awsmhacks/awsmBloodhoundCustomQueries
+- "Custom Queries" (another bloodhound query repo - more updated) - https://github.com/hausec/Bloodhound-Custom-Queries
 
 ### ActiveDirectory
 - Cheat Sheet - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
