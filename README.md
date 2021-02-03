@@ -13,6 +13,8 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 - https://github.com/xrkk/awesome-cyber-security
 - https://github.com/Spacial/csirt
 - https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
+- https://rmusser.net/docs/index.html
+- https://dmcxblue.gitbook.io/red-team-notes-2-0/
 
 ## Recon
 
