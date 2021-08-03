@@ -125,6 +125,11 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Process Injection
 - Pinjectra - https://github.com/SafeBreach-Labs/pinjectra
 
+### Active Directory Certificate Services - ADCS
+- Whisker - https://github.com/eladshamir/Whisker
+  - PyWhisker (Python version of Whisker) https://github.com/ShutdownRepo/pywhisker
+  - These attacks require Windows 2016 functional level to have the `msDs-KeyCredentialLink` object attribute.
+- PKINIT Tools - https://github.com/dirkjanm/PKINITtools
 
 ## OSX
 
