@@ -181,6 +181,9 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 ### Cracking Rules
 - OneRuleToRuleThemAll - https://github.com/NotSoSecure/password_cracking_rules
 
+### Cracking Masks
+- Microsoft mask is really effective - https://github.com/xfox64x/Hashcat-Stuffs
+
 ### Word Lists
 - WordSmith - https://github.com/skahwah/wordsmith
 - PwDB-Public - https://github.com/FlameOfIgnis/Pwdb-Public
