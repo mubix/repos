@@ -56,6 +56,8 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 
 ### GPO
 - Grouper2 - https://github.com/l0ss/Grouper2
+- SharpGPO - https://github.com/Dliv3/sharpgpo
+- SharpGPOAbuse - https://github.com/FSecureLABS/SharpGPOAbuse
 
 ### ACLs
 - ALCPwn (connects to Neo4j and executes changes) https://github.com/fox-it/aclpwn.py
