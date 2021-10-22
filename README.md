@@ -160,6 +160,7 @@ This is just a list of repositories I tend to find useful or interesting... Not 
 
 ### CobaltStrike Resources
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit
+- https://github.com/dcsync/pycobalt
 
 ## DNS
 - DNS Ftp (Download file over DNS) - https://github.com/breenmachine/dnsftp
